@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest> 
+    <remote name="lo" 
+            fetch="https://github.com/loganfutch2" 
+            revision="cm-14.1" />
+   <project path="vendor/samsung"
+                     name="proprietary_vendor_samsung"
+                     remote="lo"
+                     revision="cm-14.1" />
+</manifest>
